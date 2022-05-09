@@ -1,4 +1,4 @@
-## Management System
+## 개요
 본 프로젝트는 Bootstrap를 이용한 홈페이지 소스 입니다.
 
 
