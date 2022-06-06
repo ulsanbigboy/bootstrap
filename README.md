@@ -1,9 +1,8 @@
-## 개요
-본 프로젝트는 Bootstrap를 이용한 홈페이지 소스 입니다.
 
+# 개요
+Bootstrap를 이용한 홈페이지.
 
 # 참고사이트
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 기타 유용한 정보
